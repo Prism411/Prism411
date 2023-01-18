@@ -1,4 +1,4 @@
-![texto alternativo](readme.png)
+![texto alternativo](read.me.png)
 
 <!--
 **Prism411/Prism411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
