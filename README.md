@@ -12,7 +12,10 @@
   <img align="center" height=50em width=75em alt="Java" src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" height=50em width=75em alt="SpringBoot" src= "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
   <img align="center" height=50em width=75em alt="SpringBoot" src= "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" />
+  <img align="center" height=50em width=75em alt="HTML" src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" height=50em width=75em alt="CSS" src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
 </p>
+
 
 
 # ⚡ Fun facts: 
