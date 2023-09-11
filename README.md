@@ -14,7 +14,6 @@
   <img align="center" height=50em width=75em alt="CSS" src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
  <img align="center" height=50em width=75em alt="matlab" src= "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
  <img align="center" height=50em width=75em alt="tomcat" src= "https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" />
- <img align="center" height=50em width=75em alt="cplusplus" src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" />
 </p>
 
 
