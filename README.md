@@ -9,7 +9,7 @@
   <img align="center" height=50em width=75em alt="C-Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height=50em width=75em alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height=50em width=75em alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-  <img align="center" height=50em width=75em alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
+  <img align="center" height=50em width=75em alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" />
   <img align="center" height=50em width=75em alt="Java" src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" height=50em width=75em alt="SpringBoot" src= "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
   <img align="center" height=50em width=75em alt="SpringBoot" src= "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" />
