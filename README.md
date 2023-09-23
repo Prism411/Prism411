@@ -3,8 +3,7 @@ Hello, my name is Jáder Louis, and I'm currently enrolled in the Computer Scien
 
 # 🔭 What am i working on?
 I'm actively engaged in various university projects that have provided me with valuable hands-on experience in a wide range of areas. This includes working with cloud services, front-end and back-end development, as well as building applications for mobile, web, and desktop platforms. Additionally, I've gained expertise in image processing, artificial intelligence, and database management through my involvement in these projects.
-Moreover, my passion for game development runs deep, and I often find myself engrossed in projects that delve into the world of immersive experiences, artificial intelligence, and database management throughout my involvement in these projects. Furthermore, my passion for game development runs deep, and I often find myself engrossed in projects that delve into the world of immersive experiences, gamification, and desktop platforms. My commitment extends beyond academia, as I'm eager to collaborate and connect with like-minded individuals who share interests in technology, gaming, and development.
-My commitment extends beyond academia, as I'm eager to collaborate and connect with like-minded individuals who share interests in technology, gaming, and development. I firmly believe that by exchanging experiences and ideas, we can discover new opportunities and drive innovation.
+
 # ⚙️ Technologies
 <p align="left">
   <img align="center" height=50em width=75em alt="C-Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
