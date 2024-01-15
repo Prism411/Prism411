@@ -26,3 +26,11 @@ I'm actively engaged in various university projects that have provided me with v
 - My favorite programming language is JAVA; however, I take great pride in my ability to easily learn other languages.
 - In terms of Formula 1, I'm a big fan of Ferrari, even though this team often brings me sadness!
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prism411&show_icons=true&locale=en&layout=compact" alt="prism411" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prism411&theme=dark" alt="prism411" />
+</p>
+
+
+
+
