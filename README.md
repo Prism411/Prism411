@@ -2,7 +2,7 @@
 Hello, my name is Jáder Louis, and I'm currently enrolled in the Computer Science program at UNIR. I have a genuine passion for technology and its applications. 
 
 # 🔭 What am i working on?
-I'm actively engaged in various university projects that have provided me with valuable hands-on experience in a wide range of areas. This includes working with cloud services, front-end and back-end development, as well as building applications for mobile, web, and desktop platforms. Additionally, I've gained expertise in image processing, artificial intelligence, and database management through my involvement in these projects.
+I'm actively engaged in various university projects that have provided me with valuable hands-on experience in a wide range of areas. This includes working with cloud services, front-end and back-end development, as well as building applications for mobile, web, and desktop platforms. Additionally, I've gained experience in image processing, artificial intelligence, and database management through my involvement in these projects.
 
 # ⚙️ Technologies
 <p align="left">
