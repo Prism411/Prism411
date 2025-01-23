@@ -5,7 +5,7 @@ Hello, my name is Jáder Louis, and I'm currently enrolled in the Computer Scien
 I'm actively engaged in various university projects that have provided me with valuable hands-on experience in a wide range of areas. This includes working with cloud services, front-end and back-end development, as well as building applications for mobile, web, and desktop platforms. Additionally, I've gained experience in image processing, artificial intelligence, and database management through my involvement in these projects.
 
 # ⚙️ Technologies
-<p align="center">
+<p align="left">
   <img align="center" height=50em width=75em alt="C-Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height=50em width=75em alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height=50em width=75em alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
