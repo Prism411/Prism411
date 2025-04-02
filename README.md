@@ -101,7 +101,7 @@ I have several projects in the fields of Artificial Intelligence, Data Mining, a
       </tr>
       <tr>
         <td><a href="https://github.com/Ictio-Biometria">Ictiobiometria APP</a></td>
-        <td>12 Jan 2025</td>
+        <td>02 Apr 2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Prism411/JL-EyeTeractive">JL-EyeTeractive</a></td>
