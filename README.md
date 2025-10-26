@@ -1,128 +1,177 @@
-# 🤔 Who am i?
-<img align="right" alt="GIF" width="20%" src="https://raw.githubusercontent.com/Mangeshrex/dotfiles/main/etc/cat.gif" />
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7FFF&vCenter=true&width=600&lines=Olá!+Eu+sou+Jáder+Louis+👋;Desenvolvedor+Geoespacial+🌍;Computer+Science+Student+💻)
 
-Hello, my name is Jáder Louis, and I'm currently enrolled in the Computer Science program at UNIR. I have a genuine passion for technology and its applications. 
-I'm actively engaged in various university projects that have provided me with valuable hands-on experience in a wide range of areas. This includes working with cloud services, front-end and back-end development, as well as building applications for mobile, web, and desktop platforms.
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=prism411&color=3F7FFF&style=for-the-badge&label=Visitantes)](https://github.com/prism411)
+  [![GitHub followers](https://img.shields.io/github/followers/prism411?style=for-the-badge&color=3F7FFF&labelColor=1a1e2e)](https://github.com/prism411?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/prism411?style=for-the-badge&color=3F7FFF&labelColor=1a1e2e)](https://github.com/prism411?tab=repositories)
+  
+</div>
 
-I have several projects in the fields of Artificial Intelligence, Data Mining, and Image Processing. Feel free to explore my GitHub!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&animation=twinkling" width="100%"/>
 
+## 🚀 Sobre Mim
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-  <h2>Programming Languages</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="C-Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img height=50em width=50em alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-    <img height=50em width=50em alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-    <img height=50em width=50em alt="Csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
-    <img height=50em width=50em alt="Rust" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" />
-    <img height=50em width=50em alt="Go" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" />
-  </div>
+```python
+class JaderLouis:
+    def __init__(self):
+        self.nome = "Jáder Louis"
+        self.formacao = "Ciência da Computação @ UNIR"
+        self.localizacao = "Porto Velho, RO 🇧🇷"
+        self.areas_interesse = [
+            "Desenvolvimento Geoespacial",
+            "Inteligência Artificial",
+            "Processamento de Imagens",
+            "Ciência de Dados",
+            "Grafos",
+            "LLMs"
+        ]
+        self.fun_fact = "Athlete & F1 Enthuasiast in my spare time"
+    
+    def status_atual(self):
+        return "🔭 Trabalhando em projetos de IA e visão computacional"
+```
 
-  <h2>Web Dev</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
-    <img height=50em width=50em alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
-    <img height=50em width=50em alt="Flask" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" />
-    <img height=50em width=50em alt="Django" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" />
-    <img height=50em width=50em alt="Ruby" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby.png" />
-    <img height=50em width=50em alt="Ruby on Rails" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png" />
-    <img height=50em width=50em alt="SpringBoot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
-  </div>
+<br clear="right"/>
 
-  <h2>Databases</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img height=50em width=50em alt="SQLite" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" />
-    <img height=50em width=50em alt="PostgreSQL" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
-    <img height=50em width=50em alt="MariaDB" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" />
-  </div>
+## 💻 Tech Stack
 
-  <h2>Mobile Dev</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="Dart" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" />
-    <img height=50em width=50em alt="Flutter" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" />
-    <img height=50em width=50em alt="Kotlin" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" />
-  </div>
+<details open>
+<summary><b>🎯 Linguagens Principais</b></summary>
+<br>
 
-  <h2>Engines</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="Unity" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" />
-    <img height=50em width=50em alt="Unreal Engine" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" />
-    <img height=50em width=50em alt="Pygame" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pygame.png" />
-  </div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-  <h2>Machine Learning & IA</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="TensorFlow" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" />
-    <img height=50em width=50em alt="Matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
-  </div>
+</details>
 
-  <h2>Communication and Networks</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="HTTP" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" />
-    <img height=50em width=50em alt="WebSocket" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" />
-    <img height=50em width=50em alt="REST" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" />
-  </div>
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
 
-  <h2>Software Dev</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="Docker" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
-  </div>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <h2>Some Stuff</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height=50em width=50em alt="Arduino" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" />
-    <img height=50em width=50em alt="QT" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" />
-  </div>
+</details>
+
+<details>
+<summary><b>📱 Mobile & Game Development</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & DevOps</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prism411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prism411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prism411&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+## 🏆 Conquistas & Atividade
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=prism411&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prism411&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+  
+| 🚀 Projeto | 📝 Descrição | 🔧 Stack | 📅 Última Atualização |
+|------------|--------------|----------|------------------------|
+| [**Ictiobiometria APP**](https://github.com/Ictio-Biometria) | Sistema de biometria para peixes | Flutter, Python, AI | ![Last Update](https://img.shields.io/badge/Abril-2025-brightgreen?style=flat-square) |
+| [**JL-EyeTeractive**](https://github.com/Prism411/JL-EyeTeractive) | Interface interativa controlada por olhos | Computer Vision, Python | ![Last Update](https://img.shields.io/badge/Dezembro-2024-blue?style=flat-square) |
+| [**Visage Track Framework**](https://github.com/visagetrack-project) | Framework de rastreamento facial | OpenCV, TensorFlow | ![Last Update](https://img.shields.io/badge/Julho-2024-orange?style=flat-square) |
+| [**AlloCloud-OS**](https://github.com/AlloCloud-OS) | Sistema operacional em nuvem | Cloud, Distributed Systems | ![Last Update](https://img.shields.io/badge/Junho-2024-yellow?style=flat-square) |
+| [**Jawyn Searcher**](https://github.com/jawyn-project) | Motor de busca inteligente | NLP, Search Algorithms | ![Last Update](https://img.shields.io/badge/Março-2024-red?style=flat-square) |
 
 </div>
 
-# ⚡ Fun facts: 
-- I genuinely enjoy programming challenges and have participated in various programming marathon contests, such as the SBC. It's something I take great pleasure in.
-- One of the things that truly inspires me to create games is games like Dwarf Fortress, where a single developer achieved incredible feats. To me, it's a genuine masterpiece in the world of game development, and I consider them true heroes.
-- My favorite programming language is JAVA; however, I take great pride in my ability to easily learn other languages.
-- In terms of Formula 1, I'm a big fan of Ferrari, even though this team often brings me sadness!
+## 🌟 Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prism411&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="prism411" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prism411&theme=dark" alt="prism411" />
-</p>
+<div align="center">
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+```mermaid
+graph TD
+    A[🎮 Gamer] --> B[Dwarf Fortress Fan]
+    C[🏎️ F1 Enthusiast] --> D[Ferrari Tifosi!]
+    E[💻 Coder] --> F[Desenvolvedor Geoespacial at SEDAM@COGEO]
+    G[☕ Java] --> H[Linguagem Favorita]
+```
 
-#### Check out some of my current public projects!
-<div style="text-align: center;">
-  <p>
-    <table align="center">
-      <tr>
-        <th>Title</th>
-        <th>Last Update</th>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Ictio-Biometria">Ictiobiometria APP</a></td>
-        <td>02 Apr 2025</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Prism411/JL-EyeTeractive">JL-EyeTeractive</a></td>
-        <td>21 Dec 2024</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/visagetrack-project">Visage Track Framework</a></td>
-        <td>23 Jul 2024</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/AlloCloud-OS">AlloCloud-OS</a></td>
-        <td>17 Jun 2024</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/jawyn-project">Jawyn Searcher</a></td>
-        <td>22 Mar 2024</td>
-      </tr>
-    </table>
-  </p>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 🤝 Vamos Conectar!
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaderlouis)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+  
+</div>
 
+---
+
+<div align="center">
+  
+  ### 💭 Quote do Dia
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
+  
+  <sub>⭐ From [Jáder Louis](https://github.com/prism411) with 💙</sub>
+  
+</div>
