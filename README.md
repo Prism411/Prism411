@@ -196,7 +196,7 @@ Maintenance + new features across <code>protege</code>, <code>protege-api</code>
 </td>
 <td width="35%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180" alt="cat archivist"/>
+<img src="https://media.giphy.com/media/q1mHcB8wOCWf6/giphy.gif" width="180" alt="cat archivist"/>
 <br/>
 <sub><code>fig 2.</code> <em>cat reviewing my old commits.</em></sub>
 
