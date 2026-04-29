@@ -79,7 +79,7 @@ favorite:    well-named variables, leaflet-on-postgis,
 Stratified kNN + temporal edges + Leiden-CPM communities → top-1-per-community selection with entity-density boosting. Beats <code>HSMVideoSumm</code> baseline by <kbd>+0.21 F1</kbd> at <kbd>~450× faster</kbd> runtime on a 17-topic news corpus.
 
 <sub><code>python</code> · <code>networkx</code> · <code>e5-large</code> · <code>leiden</code> · <code>submodlib</code></sub><br/>
-<sub>📄 venue · <b>WebMedia 2026</b> &nbsp;·&nbsp; status · experimental phase, no draft</sub>
+<sub>🎯 target · <b>WebMedia 2026</b> &nbsp;·&nbsp; status · experimental phase, no draft yet</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +90,7 @@ Stratified kNN + temporal edges + Leiden-CPM communities → top-1-per-community
 Next.js 15 + FastAPI + Docker. Visual flow builder, monitored folders, REST API for automation, decision logs. Catppuccin Mocha design system. Wraps the HSMVideoSumm engine.
 
 <sub><code>next.js</code> · <code>fastapi</code> · <code>docker</code> · <code>react-flow</code></sub><br/>
-<sub>📄 venue · <b>WebMedia 2026 · tool track</b> &nbsp;·&nbsp; status · in development</sub>
+<sub>🎯 target · <b>WebMedia 2026 · tool track</b> &nbsp;·&nbsp; status · in development</sub>
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ Next.js 15 + FastAPI + Docker. Visual flow builder, monitored folders, REST API 
 Sanity check + agreement analysis. SIFT shows 0% agreement; DINOv2 promising as proxy; BRISQUE/NIQE without ceiling effect.
 
 <sub><code>pytorch</code> · <code>dinov2</code> · <code>brisque</code> · <code>niqe</code></sub><br/>
-<sub>📄 venue · <b>WebMedia 2026 · full track</b> &nbsp;·&nbsp; status · 20-page draft</sub>
+<sub>🎯 target · <b>WebMedia 2026 · full track</b> &nbsp;·&nbsp; status · 20-page draft</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -114,11 +114,22 @@ Sanity check + agreement analysis. SIFT shows 0% agreement; DINOv2 promising as 
 Twin submissions: <b>SBGames 2026</b> (game-design lens, PT-BR) + <b>SBES-Edu 2026</b> (software-engineering education lens, EN, ACM format).
 
 <sub><code>unity</code> · <code>c#</code> · <code>python</code> · <code>cs-metrics</code></sub><br/>
-<sub>📄 deadlines · <b>27/abr · 11/mai · 30/abr</b> (also SBBD CGKB short)</sub>
+<sub>✅ submitted · <b>SBGames 2026</b> (27/abr) &nbsp;·&nbsp; ⏳ deadline · <b>SBES-Edu 2026</b> (11/mai)</sub>
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+<h3>🗄 <code>CGKB</code> &nbsp;<sub>· short paper</sub></h3>
+
+<b>Collaborative Graph Knowledge Base — knowledge graph for heterogeneous multi-source data.</b><br/>
+Short paper submitted to <b>SBBD 2026</b>.
+
+<sub><code>python</code> · <code>knowledge graphs</code> · <code>postgresql</code></sub><br/>
+<sub>⏳ deadline · <b>SBBD 2026</b> (30/abr)</sub>
+
+</td>
 <td width="50%" valign="top">
 
 <h3>🐟 <code>reconhecimento_peixes</code> &nbsp;<sub>· applied, no paper</sub></h3>
