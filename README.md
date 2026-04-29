@@ -44,7 +44,6 @@ research:    graphs + NLP + feature extraction
              + CNNs + transformers + embeddings
 location:    butantã, são paulo · SP
 languages:   pt-br (native) · en (fluent)
-status:      ▰▰▰▰▰▰▰▰▱▱  shipping research, eating coffee
 favorite:    well-named variables, leaflet-on-postgis,
              ferrari sundays, factorio late nights
 ```
