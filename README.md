@@ -322,7 +322,7 @@ into a summary that still smells like ozone after the rain."
   <a href="https://github.com/prism411"><img src="https://img.shields.io/badge/github-0a0e27?style=for-the-badge&logo=github&logoColor=d4a574"/></a>
 </div>
 
-<br/><sub align="center">research collabs welcome · paper ideas and dataset pointers appreciated.</sub>
+<div align="center"><sub>research collabs welcome · paper ideas and dataset pointers appreciated.</sub></div>
 
 ---
 
