@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,40:1a3a5c,100:d4a574&height=240&section=header&text=jáder%20louis&fontSize=82&fontColor=f5e6d3&fontAlignY=38&desc=field%20journal%20·%20butantã%20·%20são%20paulo%20·%20SP&descSize=15&descAlignY=62&descAlign=50&fontFamily=JetBrains%20Mono&animation=fadeIn"/>
 
 <a href="https://github.com/Prism411">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=900&color=D4A574&center=true&vCenter=true&width=760&lines=graphs+%7C+NLP+%7C+CNNs+%7C+transformers+%7C+embeddings;building+systems+that+see%2C+listen+and+understand;CS+%40+UNIR+%7C+geo-dev+%40+SEDAM-COGEO+%7C+research+%40+USP;ferrari+tifosi+%7C+factorio+%7C+racing+sims+%7C+F1+sundays" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=900&color=D4A574&center=true&vCenter=true&width=760&lines=graphs+%7C+NLP+%7C+CNNs+%7C+transformers+%7C+embeddings;building+systems+that+see%2C+listen+and+understand;MSc+AI+%40+ICMC-USP+%7C+geo-dev+%40+SEDAM-COGEO;ferrari+tifosi+%7C+factorio+%7C+racing+sims+%7C+F1+sundays" alt="typing"/>
 </a>
 
 </div>
@@ -39,7 +39,7 @@
 ```yaml
 name:        jáder louis de souza gonçalves
 role:        geospatial developer @ SEDAM / COGEO (remote)
-study:       computer science @ UNIR (final year)
+study:       MSc AI @ ICMC-USP · multimodal artificial intelligence
 research:    graphs + NLP + feature extraction
              + CNNs + transformers + embeddings
 location:    butantã, são paulo · SP
