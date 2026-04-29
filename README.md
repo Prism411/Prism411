@@ -143,6 +143,30 @@ faster-whisper large-v3-turbo → GLiNER ONNX → Qwen2.5-7B extractor → Llama
 </td>
 <td width="50%" valign="top">
 
+<h3>🧠 <code>Conapse-Net</code> &nbsp;<sub>· TCC · private</sub></h3>
+
+<b>Neurosymbolic system for LLM optimization via code graphs.</b><br/>
+Composed of <b>CGKB</b> (Code Graph Knowledge Base — converts Python to CFG/DDG) and <b>RAC</b> (Rational Analysis Component — 26 specialized graph processors). Evaluated on DyPyBench (50 projects, 681k LOC): <kbd>84.7% token reduction</kbd>, <kbd>88.76% detection rate</kbd>, RAC 12B matches Llama 70B with 5.8× fewer params and 98% lower cost.
+
+<sub><code>python</code> · <code>graphs</code> · <code>neurosymbolic AI</code> · <code>LLMs</code></sub><br/>
+<sub>📄 submitted · <b>SBC</b> (TCC)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎮 <code>PRISMa</code> &nbsp;<sub>· multi-agent · private</sub></h3>
+
+<b>Modular cognitively-inspired architecture with persistent memory for autonomous agents in open-world environments.</b><br/>
+Evaluated in Minecraft. Persistent memory + modular cognition + multi-agent coordination.
+
+<sub><code>python</code> · <code>multi-agent systems</code> · <code>minecraft</code> · <code>persistent memory</code></sub><br/>
+<sub>🎯 target · <b>JAAMAS</b> (Springer)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <h3>🛰 <code>PROTEGE</code> &nbsp;<sub>· SEDAM/COGEO · government</sub></h3>
 
 <b>Geospatial monitoring stack for the state of Rondônia.</b><br/>
