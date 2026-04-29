@@ -1,176 +1,344 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7FFF&vCenter=true&width=600&lines=Olá!+Eu+sou+Jáder+Louis+👋;Desenvolvedor+Geoespacial+🌍;Computer+Science+Student+💻)
+<!--
+  ╭─────────────────────────────────────────────────────────────╮
+  │  jáder louis · github profile · field journal v3            │
+  │  rendered in pure markdown + html                           │
+  │  cats included for moral support                            │
+  ╰─────────────────────────────────────────────────────────────╯
+-->
 
 <div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=prism411&color=3F7FFF&style=for-the-badge&label=Visitantes)](https://github.com/prism411)
-  [![GitHub followers](https://img.shields.io/github/followers/prism411?style=for-the-badge&color=3F7FFF&labelColor=1a1e2e)](https://github.com/prism411?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/prism411?style=for-the-badge&color=3F7FFF&labelColor=1a1e2e)](https://github.com/prism411?tab=repositories)
-  
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,40:1a3a5c,100:d4a574&height=240&section=header&text=jáder%20louis&fontSize=82&fontColor=f5e6d3&fontAlignY=38&desc=field%20journal%20·%20porto%20velho%20·%2008°S%2063°W&descSize=15&descAlignY=62&descAlign=50&fontFamily=JetBrains%20Mono&animation=fadeIn"/>
+
+<a href="https://github.com/Prism411">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=900&color=D4A574&center=true&vCenter=true&width=760&lines=%2F%2F+graphs%2C+pixels+and+the+rainforest+from+orbit;%2F%2F+building+systems+that+see%2C+listen+and+understand;%2F%2F+CS+%40+UNIR+·+geo-dev+%40+SEDAM%2FCOGEO+·+research+collab+%40+USP;%2F%2F+ferrari+tifoso+·+dwarf-fortress+enjoyer+·+cat+sysadmin" alt="typing"/>
+</a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&animation=twinkling" width="100%"/>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><a href="https://github.com/prism411?tab=followers"><img src="https://img.shields.io/github/followers/prism411?style=flat-square&color=d4a574&labelColor=0a0e27&label=FOLLOWERS"/></a></td>
+    <td align="center"><a href="https://github.com/prism411?tab=repositories"><img src="https://img.shields.io/github/stars/prism411?style=flat-square&color=d4a574&labelColor=0a0e27&label=STARS"/></a></td>
+    <td align="center"><img src="https://komarev.com/ghpvc/?username=prism411&color=d4a574&style=flat-square&label=VISITS&labelColor=0a0e27"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/based_in-porto_velho_·_RO-d4a574?style=flat-square&labelColor=0a0e27"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/last_field_log-2026--04-d4a574?style=flat-square&labelColor=0a0e27"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/cat_count-1.0-d4a574?style=flat-square&labelColor=0a0e27"/></td>
+  </tr>
+</table>
 
-## 🚀 Sobre Mim
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<!-- ───────────────────────────  HERO  ─────────────────────────── -->
 
-```python
-class JaderLouis:
-    def __init__(self):
-        self.nome = "Jáder Louis"
-        self.formacao = "Ciência da Computação @ UNIR"
-        self.localizacao = "Porto Velho, RO 🇧🇷"
-        self.areas_interesse = [
-            "Desenvolvimento Geoespacial",
-            "Inteligência Artificial",
-            "Processamento de Imagens",
-            "Ciência de Dados",
-            "Grafos",
-            "LLMs"
-        ]
-        self.fun_fact = "Athlete & F1 Enthuasiast in my spare time"
-    
-    def status_atual(self):
-        return "🔭 Trabalhando em projetos de IA e visão computacional"
+<table border="0" align="center">
+<tr>
+<td width="58%" valign="top">
+
+<h2>▍ <code>cat /home/jader/whoami.txt</code></h2>
+
+```yaml
+name:        jáder louis de souza gonçalves
+role:        geospatial developer @ SEDAM / COGEO
+study:       computer science @ UNIR (final year)
+research:    multi-document video summarization
+             + graph-based portuguese NLP
+             + remote-sensing for the amazon
+location:    porto velho, rondônia · brazilian amazon
+languages:   pt-br (native) · en (fluent) · cat (intermediate)
+status:      ▰▰▰▰▰▰▰▰▱▱  shipping research, eating coffee
+favorite:    well-named variables, leaflet-on-postgis,
+             ferrari sundays, an orange cat called sundance
 ```
 
-<br clear="right"/>
+<sub>this readme is part research log, part portfolio, part feline appreciation post.</sub>
 
-## 💻 Tech Stack
+</td>
+<td width="42%" valign="top" align="center">
 
-<details open>
-<summary><b>🎯 Linguagens Principais</b></summary>
-<br>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="cat coding"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<sub><code>fig 1.</code> &nbsp; <em>my pair-programmer reviewing a PR.<br/>compensation: tuna, head scratches.</em></sub>
 
-</details>
+</td>
+</tr>
+</table>
+
+<!-- ─────────────────────  ACTIVE RESEARCH  ───────────────────── -->
+
+<h2>▍ active research <sup><code>2026·Q2</code></sup></h2>
+
+<blockquote>
+<p>three papers in flight. one extension. one benchmark. one rainforest.<br/>
+<sub>all dates absolute · venues confirmed · drafts at various depths of caffeine.</sub></p>
+</blockquote>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🕸 <code>jl-summ-graph</code> &nbsp;<sub>· private</sub></h3>
+
+<b>Graph-based multi-video news summarization (PT-BR).</b><br/>
+Stratified kNN + temporal edges + Leiden-CPM communities → top-1-per-community selection with entity-density boosting. Beats <code>HSMVideoSumm</code> baseline by <kbd>+0.21 F1</kbd> at <kbd>~450× faster</kbd> runtime on a 17-topic news corpus.
+
+<sub><code>python</code> · <code>networkx</code> · <code>e5-large</code> · <code>leiden</code> · <code>submodlib</code></sub><br/>
+<sub>📄 venue · <b>WebMedia 2026</b> &nbsp;·&nbsp; status · experimental phase, no draft</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎬 <a href="https://github.com/Prism411/sumarizador"><code>sumarizador</code> · SummWeb</a> &nbsp;<sub>· private</sub></h3>
+
+<b>Programmable web platform for video summarization.</b><br/>
+Next.js 15 + FastAPI + Docker. Visual flow builder, monitored folders, REST API for automation, decision logs. Catppuccin Mocha design system. Wraps the HSMVideoSumm engine.
+
+<sub><code>next.js</code> · <code>fastapi</code> · <code>docker</code> · <code>react-flow</code></sub><br/>
+<sub>📄 venue · <b>WebMedia 2026 · tool track</b> &nbsp;·&nbsp; status · in development</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📊 <code>quality-benchmark</code> · Evaluality &nbsp;<sub>· private</sub></h3>
+
+<b>Benchmark of 11 quality-scoring methods for multi-doc video summarization.</b><br/>
+Sanity check + agreement analysis. SIFT shows 0% agreement; DINOv2 promising as proxy; BRISQUE/NIQE without ceiling effect.
+
+<sub><code>pytorch</code> · <code>dinov2</code> · <code>brisque</code> · <code>niqe</code></sub><br/>
+<sub>📄 venue · <b>WebMedia 2026 · full track</b> &nbsp;·&nbsp; status · 20-page draft</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎮 <code>komplexity</code> &nbsp;<sub>· two papers, one engine</sub></h3>
+
+<b>Code-complexity gamification platform.</b><br/>
+Twin submissions: <b>SBGames 2026</b> (game-design lens, PT-BR) + <b>SBES-Edu 2026</b> (software-engineering education lens, EN, ACM format).
+
+<sub><code>unity</code> · <code>c#</code> · <code>python</code> · <code>cs-metrics</code></sub><br/>
+<sub>📄 deadlines · <b>27/abr · 11/mai · 30/abr</b> (also SBBD CGKB short)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🐟 <code>reconhecimento_peixes</code> &nbsp;<sub>· applied, no paper</sub></h3>
+
+<b>ASR + NER pipeline for fishing-trip videos.</b><br/>
+faster-whisper large-v3-turbo → GLiNER ONNX → Qwen2.5-7B extractor → Llama-3.1-8B verifier. Open-vocabulary capture for species, basins, baits.
+
+<sub><code>whisper</code> · <code>gliner</code> · <code>ollama</code> · <code>qwen</code> · <code>llama</code></sub><br/>
+<sub>📄 status · production pipeline, partner-facing</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛰 <code>PROTEGE</code> &nbsp;<sub>· SEDAM/COGEO · government</sub></h3>
+
+<b>Geospatial monitoring stack for the state of Rondônia.</b><br/>
+Maintenance + new features across <code>protege</code>, <code>protege-api</code>, <code>protege-datahub</code>, <code>protege-notificacoes</code>. Fire-spot dashboards, 3D route visualization, anomaly detection.
+
+<sub><code>react</code> · <code>postgis</code> · <code>openlayers</code> · <code>airflow</code></sub><br/>
+<sub>📄 status · in production · v0.7.4 prod / v0.7.5 dev</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ───────────────────────  PIXEL CAT BAR  ─────────────────────── -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions"/>
+</div>
+
+<!-- ─────────────────────────  PUBLIC  ──────────────────────────── -->
+
+<h2>▍ public &amp; recent</h2>
+
+<table>
+<tr>
+<th align="left"></th>
+<th align="left">repo</th>
+<th align="left">what it is</th>
+<th align="left">stack</th>
+<th align="center">touched</th>
+</tr>
+<tr><td>🐠</td><td><a href="https://github.com/Ictio-Biometria"><b>Ictiobiometria</b></a></td><td>fish biometry · field app + cv backend</td><td><sub><code>flutter</code> · <code>python</code> · <code>cv</code></sub></td><td align="center"><code>2025-04</code></td></tr>
+<tr><td>👁</td><td><a href="https://github.com/Prism411/JL-EyeTeractive"><b>JL-EyeTeractive</b></a></td><td>eye-tracking accessibility HCI</td><td><sub><code>python</code> · <code>opencv</code> · <code>kotlin</code></sub></td><td align="center"><code>2025-01</code></td></tr>
+<tr><td>🎮</td><td><a href="https://github.com/Prism411/VIII-Semana-da-Computacao-GAMEDEV-COURSE"><b>VIII Semana · GameDev Course</b></a></td><td>gamedev intro course · I taught it</td><td><sub><code>python</code> · <code>pygame</code></sub></td><td align="center"><code>2025-10</code></td></tr>
+<tr><td>🛰</td><td><a href="https://github.com/Prism411/mobile-NASA-APOD"><b>mobile-NASA-APOD</b></a></td><td>NASA APOD android client</td><td><sub><code>java</code> · <code>android</code></sub></td><td align="center"><code>2025-09</code></td></tr>
+<tr><td>🗺</td><td><a href="https://github.com/Prism411/geofocos-mobile-proj_individual_01"><b>geofocos-mobile</b></a></td><td>geo fire-spot mobile · sedam context</td><td><sub><code>kotlin</code> · <code>jetpack</code></sub></td><td align="center"><code>2025-10</code></td></tr>
+<tr><td>🎰</td><td><a href="https://github.com/Prism411/tigrinho-apostador"><b>tigrinho-apostador</b></a></td><td>sarcastic anti-gambling sim</td><td><sub><code>kotlin</code> · <code>android</code></sub></td><td align="center"><code>2025-09</code></td></tr>
+<tr><td>📝</td><td><a href="https://github.com/Prism411/texugo-live-editor-local"><b>texugo-live-editor</b></a></td><td>local LaTeX editor w/ live preview</td><td><sub><code>typescript</code> · <code>docker</code></sub></td><td align="center"><code>2026-03</code></td></tr>
+<tr><td>💪</td><td><a href="https://github.com/Prism411/fitHealth-APP"><b>fitHealth-APP</b></a></td><td>habit &amp; exercise tracker</td><td><sub><code>flutter</code> · <code>dart</code></sub></td><td align="center"><code>2025-03</code></td></tr>
+<tr><td>🐍</td><td><a href="https://github.com/Prism411/VII-Semana-da-Computa-o---Python-Course"><b>VII Semana · Python Course</b></a></td><td>python intro course · I co-taught it</td><td><sub><code>python</code></sub></td><td align="center"><code>2024-09</code></td></tr>
+<tr><td>🧤</td><td><a href="https://github.com/Prism411/hgrs-project"><b>HGRS · luva tradutora libras</b></a></td><td>LIBRAS sign-glove translator (samsung NAVE)</td><td><sub><code>c++</code> · <code>arduino</code></sub></td><td align="center"><code>2024-05</code></td></tr>
+</table>
 
 <details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
+<summary><b>📦 archived &amp; academic experiments</b> &nbsp;<sub>click to unfold</sub></summary>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-</details>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<details>
-<summary><b>📱 Mobile & Game Development</b></summary>
-<br>
+<sub>
+<code>projectXYZ</code> · <code>luminaPixel-studio</code> (img processing, py, 2024) ·
+<code>JASM</code> (asm simulator, java, 2023) · <code>cineCalc</code> (physics, java, 2023) ·
+<code>pvpi-project</code> (linear algebra, py, 2023) · <code>jl-calculator</code> (flutter, 2024) ·
+<code>JLAutoCraft</code> (java, 2023) · <code>b-tree-jader</code> (c++, 2023) ·
+<code>vt-api</code> / <code>vt-web</code> / <code>vt-simulatedAmbient</code> (visage-track stack, 2024-2025) ·
+<code>BankSystem-Project</code> · <code>ChessGameProject</code> · <code>idw-website</code> ·
+<code>idw-orpgp</code> (ruby, 2024) · early java tracks (2022-2023).
+</sub>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+</td>
+<td width="35%" valign="middle" align="center">
 
-</details>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180" alt="cat archivist"/>
+<br/>
+<sub><code>fig 2.</code> <em>cat reviewing my old commits.</em></sub>
 
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+</td>
+</tr>
+</table>
 
 </details>
 
-<details>
-<summary><b>🗄️ Databases & DevOps</b></summary>
-<br>
+<!-- ─────────────────────────  STACK  ───────────────────────────── -->
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<h2>▍ stack</h2>
 
-</details>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-## 📊 GitHub Analytics
+```text
+languages    │  python      ▰▰▰▰▰▰▰▰▰▱     daily driver
+             │  typescript  ▰▰▰▰▰▰▰▱▱▱     web · research uis
+             │  java        ▰▰▰▰▰▰▱▱▱▱     legacy + android
+             │  kotlin      ▰▰▰▰▱▱▱▱▱▱     android-native
+             │  c / c++     ▰▰▰▰▰▱▱▱▱▱     embedded · pg ext
+             │  go          ▰▰▰▱▱▱▱▱▱▱     small services
+             │  c#          ▰▰▰▱▱▱▱▱▱▱     unity
+             │  rust        ▰▰▱▱▱▱▱▱▱▱     learning slowly
+             │  dart        ▰▰▰▰▱▱▱▱▱▱     flutter
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prism411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prism411&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
+ai / ml      │  pytorch · transformers · sentence-transformers
+             │  onnx · gliner · faster-whisper · spacy · networkx
+             │  ollama (qwen · llama · gemma) · opencv · sklearn
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prism411&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
+geo / data   │  postgis · qgis · openlayers · mapbox · leaflet
+             │  airflow · dbt · python-geopandas
 
-## 🏆 Conquistas & Atividade
+web          │  next.js 15 · fastapi · django · flask
+             │  spring-boot · ruby-on-rails
 
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=prism411&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+mobile/game  │  flutter · jetpack-compose · unity · unreal
+             │  android-native (java/kotlin)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prism411&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-## 🎯 Projetos em Destaque
-
-<div align="center">
-  
-| 🚀 Projeto | 📝 Descrição | 🔧 Stack | 📅 Última Atualização |
-|------------|--------------|----------|------------------------|
-| [**Ictiobiometria APP**](https://github.com/Ictio-Biometria) | Sistema de biometria para peixes | Flutter, Python, AI | ![Last Update](https://img.shields.io/badge/Abril-2025-brightgreen?style=flat-square) |
-| [**JL-EyeTeractive**](https://github.com/Prism411/JL-EyeTeractive) | Interface interativa controlada por olhos | Computer Vision, Python | ![Last Update](https://img.shields.io/badge/Dezembro-2024-blue?style=flat-square) |
-| [**Visage Track Framework**](https://github.com/visagetrack-project) | Framework de rastreamento facial | OpenCV, TensorFlow | ![Last Update](https://img.shields.io/badge/Julho-2024-orange?style=flat-square) |
-| [**AlloCloud-OS**](https://github.com/AlloCloud-OS) | Sistema operacional em nuvem | Cloud, Distributed Systems | ![Last Update](https://img.shields.io/badge/Junho-2024-yellow?style=flat-square) |
-| [**Jawyn Searcher**](https://github.com/jawyn-project) | Motor de busca inteligente | NLP, Search Algorithms | ![Last Update](https://img.shields.io/badge/Março-2024-red?style=flat-square) |
-
-</div>
-
-## 🌟 Fun Facts
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎮 Gamer] --> B[Dwarf Fortress Fan]
-    C[🏎️ F1 Enthusiast] --> D[Ferrari Tifosi!]
-    E[💻 Coder] --> F[Desenvolvedor Geoespacial at SEDAM@COGEO]
-    G[☕ Java] --> H[Linguagem Favorita]
+infra        │  docker · postgres · redis · linux · ssh tunnels
+             │  tailscale · github-actions
 ```
 
-</div>
+</td>
+<td valign="top" width="40%" align="center">
 
-## 🤝 Vamos Conectar!
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100%" alt="cat keyboard"/>
+
+<br/><br/>
+
+<sub><code>fig 3.</code> <em>cat performing routine<br/>maintenance on the keyboard layer.<br/>output undefined but committed.</em></sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ───────────────────────  TELEMETRY  ────────────────────────── -->
+
+<h2>▍ telemetry</h2>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jáder-louis-37ab942bb)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaderlouis@proton.me)
-  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prism411&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=d4a574&icon_color=d4a574&text_color=c5cae9&bg_color=0a0e27"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prism411&layout=compact&hide_border=true&langs_count=10&title_color=d4a574&text_color=c5cae9&bg_color=0a0e27"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prism411&hide_border=true&background=0a0e27&stroke=d4a574&ring=d4a574&fire=d4a574&currStreakLabel=d4a574&currStreakNum=f5e6d3&dates=c5cae9&sideNums=f5e6d3&sideLabels=c5cae9"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=prism411&theme=algolia&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=prism411&hide_border=true&bg_color=0a0e27&color=d4a574&line=d4a574&point=f5e6d3&area=true&area_color=1a3a5c&title_color=d4a574"/>
+
 </div>
+
+<!-- ─────────────────────────  FIELD  ──────────────────────────── -->
+
+<h2>▍ field notes</h2>
+
+<table border="0">
+<tr>
+<td valign="top" width="62%">
+
+<blockquote>
+"the rainforest is a graph. every fire-spot a node, every river an edge,<br/>
+every researcher a community of one trying to compress the canopy<br/>
+into a summary that still smells like ozone after the rain."
+</blockquote>
+
+- 🌳 i write code from the <b>brazilian amazon</b> — sedam/cogeo, porto velho, rondônia.
+- 🔬 my research lives at the intersection of <b>graphs</b>, <b>multimedia summarization</b> and <b>portuguese NLP</b>.
+- 🎯 currently obsessing over: graph community detection for video selection · entity-density boosting · DINOv2 as a quality proxy · ASR for very-low-resource fishing dialects.
+- 🏎 outside the terminal: <b>ferrari tifoso</b>, dwarf fortress in fortress mode, running, F1 sundays are sacred, second-monitor reserved for cats.
+- 📚 always reading something about graph theory, cognitive load, or rainforest hydrology.
+
+</td>
+<td valign="top" width="38%" align="center">
+
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/love-cat.gif" width="60" alt="pixel cat"/>
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/love-cat.gif" width="60" alt="pixel cat"/>
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/love-cat.gif" width="60" alt="pixel cat"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%" alt="cat in a box"/>
+
+<sub><code>fig 4.</code> <em>standard production deployment vehicle.</em></sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ─────────────────────────  CONTACT  ────────────────────────── -->
+
+<h2>▍ signal</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jáder-louis-37ab942bb"><img src="https://img.shields.io/badge/linkedin-0a0e27?style=for-the-badge&logo=linkedin&logoColor=d4a574"/></a>
+  <a href="mailto:jaderlouis@proton.me"><img src="https://img.shields.io/badge/protonmail-0a0e27?style=for-the-badge&logo=protonmail&logoColor=d4a574"/></a>
+  <a href="mailto:jader.louis1@gmail.com"><img src="https://img.shields.io/badge/gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=d4a574"/></a>
+  <a href="https://github.com/prism411"><img src="https://img.shields.io/badge/github-0a0e27?style=for-the-badge&logo=github&logoColor=d4a574"/></a>
+</p>
+
+<sub>research collabs welcome · gato-friendly inboxes only · please send paper ideas, dataset pointers, or photos of orange cats.</sub>
 
 ---
 
 <div align="center">
-  
-  ### 💭 Quote do Dia
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
-  
-  <sub>⭐ From [Jáder Louis](https://github.com/prism411) with 💙</sub>
-  
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+
+<br/><br/>
+
+<sub><code>this readme · last refactored 2026-04-28 · porto velho · 08°45′S 63°54′W · cat supervisor: present</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a574,50:1a3a5c,100:0a0e27&height=80&section=footer&animation=fadeIn"/>
+
 </div>
