@@ -1,6 +1,6 @@
 <!--
   ╭─────────────────────────────────────────────────────────────╮
-  │  jáder louis · github profile · field journal v3            │
+  │  jáder louis · github profile · readme v3                   │
   │  rendered in pure markdown + html                           │
   │  cats included for moral support                            │
   ╰─────────────────────────────────────────────────────────────╯
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,40:1a3a5c,100:d4a574&height=240&section=header&text=jáder%20louis&fontSize=82&fontColor=f5e6d3&fontAlignY=38&desc=field%20journal%20·%20butantã%20·%20são%20paulo%20·%20SP&descSize=15&descAlignY=62&descAlign=50&fontFamily=JetBrains%20Mono&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,40:1a3a5c,100:d4a574&height=240&section=header&text=jáder%20louis&fontSize=82&fontColor=f5e6d3&fontAlignY=38&desc=butantã%20·%20são%20paulo%20·%20SP&descSize=15&descAlignY=62&descAlign=50&fontFamily=JetBrains%20Mono&animation=fadeIn"/>
 
 <a href="https://github.com/Prism411">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=900&color=D4A574&center=true&vCenter=true&width=760&lines=graphs+%7C+NLP+%7C+CNNs+%7C+transformers+%7C+embeddings;building+systems+that+see%2C+listen+and+understand;MSc+AI+%40+ICMC-USP+%7C+geo-dev+%40+SEDAM-COGEO;ferrari+tifosi+%7C+factorio+%7C+racing+sims+%7C+F1+sundays" alt="typing"/>
@@ -22,7 +22,7 @@
     <td align="center"><a href="https://github.com/prism411?tab=repositories"><img src="https://img.shields.io/github/stars/prism411?style=flat-square&color=d4a574&labelColor=0a0e27&label=STARS"/></a></td>
     <td align="center"><img src="https://komarev.com/ghpvc/?username=prism411&color=d4a574&style=flat-square&label=VISITS&labelColor=0a0e27"/></td>
     <td align="center"><img src="https://img.shields.io/badge/based_in-butantã_·_SP-d4a574?style=flat-square&labelColor=0a0e27"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/last_field_log-2026--04-d4a574?style=flat-square&labelColor=0a0e27"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/last_update-2026--04-d4a574?style=flat-square&labelColor=0a0e27"/></td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ favorite:    well-named variables, leaflet-on-postgis,
              ferrari sundays, factorio late nights
 ```
 
-<sub>this readme is part research log, part portfolio, part field journal.</sub>
+<sub>this readme is part research log, part portfolio.</sub>
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -277,7 +277,7 @@ infra        │  docker · postgres · redis · linux · ssh tunnels
 
 <!-- ─────────────────────────  FIELD  ──────────────────────────── -->
 
-<h2>▍ field notes</h2>
+<h2>▍ about</h2>
 
 <table border="0">
 <tr>
