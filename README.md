@@ -291,7 +291,7 @@ into a summary that still smells like ozone after the rain."
 
 - 🔬 research at the intersection of <b>graphs</b>, <b>NLP</b>, <b>feature extraction</b>, <b>CNNs</b>, <b>transformers</b> and <b>embeddings</b>.
 - 🎯 currently obsessing over: graph community detection for video selection · entity-density boosting · DINOv2 as a quality proxy · ASR for low-resource dialects.
-- 🏎 outside the terminal: <b>ferrari tifosi</b>, dwarf fortress, factorio, racing sims — F1 sundays are sacred.
+- 🏎 outside the terminal: <b>ferrari tifosi</b>, dwarf fortress, factorio, racing sims. F1 sundays are sacred.
 - 📚 always reading something about graph theory, cognitive load, or remote sensing.
 
 </td>
