@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,40:1a3a5c,100:d4a574&height=240&section=header&text=jáder%20louis&fontSize=82&fontColor=f5e6d3&fontAlignY=38&desc=field%20journal%20·%20porto%20velho%20·%2008°S%2063°W&descSize=15&descAlignY=62&descAlign=50&fontFamily=JetBrains%20Mono&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,40:1a3a5c,100:d4a574&height=240&section=header&text=jáder%20louis&fontSize=82&fontColor=f5e6d3&fontAlignY=38&desc=field%20journal%20·%20butantã%20·%20são%20paulo%20·%20SP&descSize=15&descAlignY=62&descAlign=50&fontFamily=JetBrains%20Mono&animation=fadeIn"/>
 
 <a href="https://github.com/Prism411">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=900&color=D4A574&center=true&vCenter=true&width=760&lines=%2F%2F+graphs%2C+pixels+and+the+rainforest+from+orbit;%2F%2F+building+systems+that+see%2C+listen+and+understand;%2F%2F+CS+%40+UNIR+·+geo-dev+%40+SEDAM%2FCOGEO+·+research+collab+%40+USP;%2F%2F+ferrari+tifoso+·+dwarf-fortress+enjoyer+·+cat+sysadmin" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=900&color=D4A574&center=true&vCenter=true&width=760&lines=graphs+%7C+NLP+%7C+CNNs+%7C+transformers+%7C+embeddings;building+systems+that+see%2C+listen+and+understand;CS+%40+UNIR+%7C+geo-dev+%40+SEDAM-COGEO+%7C+research+%40+USP;ferrari+tifosi+%7C+factorio+%7C+racing+sims+%7C+F1+sundays" alt="typing"/>
 </a>
 
 </div>
@@ -21,9 +21,8 @@
     <td align="center"><a href="https://github.com/prism411?tab=followers"><img src="https://img.shields.io/github/followers/prism411?style=flat-square&color=d4a574&labelColor=0a0e27&label=FOLLOWERS"/></a></td>
     <td align="center"><a href="https://github.com/prism411?tab=repositories"><img src="https://img.shields.io/github/stars/prism411?style=flat-square&color=d4a574&labelColor=0a0e27&label=STARS"/></a></td>
     <td align="center"><img src="https://komarev.com/ghpvc/?username=prism411&color=d4a574&style=flat-square&label=VISITS&labelColor=0a0e27"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/based_in-porto_velho_·_RO-d4a574?style=flat-square&labelColor=0a0e27"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/based_in-butantã_·_SP-d4a574?style=flat-square&labelColor=0a0e27"/></td>
     <td align="center"><img src="https://img.shields.io/badge/last_field_log-2026--04-d4a574?style=flat-square&labelColor=0a0e27"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/cat_count-1.0-d4a574?style=flat-square&labelColor=0a0e27"/></td>
   </tr>
 </table>
 
@@ -39,19 +38,18 @@
 
 ```yaml
 name:        jáder louis de souza gonçalves
-role:        geospatial developer @ SEDAM / COGEO
+role:        geospatial developer @ SEDAM / COGEO (remote)
 study:       computer science @ UNIR (final year)
-research:    multi-document video summarization
-             + graph-based portuguese NLP
-             + remote-sensing for the amazon
-location:    porto velho, rondônia · brazilian amazon
-languages:   pt-br (native) · en (fluent) · cat (intermediate)
+research:    graphs + NLP + feature extraction
+             + CNNs + transformers + embeddings
+location:    butantã, são paulo · SP
+languages:   pt-br (native) · en (fluent)
 status:      ▰▰▰▰▰▰▰▰▱▱  shipping research, eating coffee
 favorite:    well-named variables, leaflet-on-postgis,
-             ferrari sundays, an orange cat called sundance
+             ferrari sundays, factorio late nights
 ```
 
-<sub>this readme is part research log, part portfolio, part feline appreciation post.</sub>
+<sub>this readme is part research log, part portfolio, part field journal.</sub>
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -69,8 +67,7 @@ favorite:    well-named variables, leaflet-on-postgis,
 <h2>▍ active research <sup><code>2026·Q2</code></sup></h2>
 
 <blockquote>
-<p>three papers in flight. one extension. one benchmark. one rainforest.<br/>
-<sub>all dates absolute · venues confirmed · drafts at various depths of caffeine.</sub></p>
+<p><sub>all dates absolute · venues confirmed · drafts at various depths of caffeine.</sub></p>
 </blockquote>
 
 <table>
@@ -170,7 +167,6 @@ Maintenance + new features across <code>protege</code>, <code>protege-api</code>
 <tr><td>👁</td><td><a href="https://github.com/Prism411/JL-EyeTeractive"><b>JL-EyeTeractive</b></a></td><td>eye-tracking accessibility HCI</td><td><sub><code>python</code> · <code>opencv</code> · <code>kotlin</code></sub></td><td align="center"><code>2025-01</code></td></tr>
 <tr><td>🎮</td><td><a href="https://github.com/Prism411/VIII-Semana-da-Computacao-GAMEDEV-COURSE"><b>VIII Semana · GameDev Course</b></a></td><td>gamedev intro course · I taught it</td><td><sub><code>python</code> · <code>pygame</code></sub></td><td align="center"><code>2025-10</code></td></tr>
 <tr><td>🛰</td><td><a href="https://github.com/Prism411/mobile-NASA-APOD"><b>mobile-NASA-APOD</b></a></td><td>NASA APOD android client</td><td><sub><code>java</code> · <code>android</code></sub></td><td align="center"><code>2025-09</code></td></tr>
-<tr><td>🗺</td><td><a href="https://github.com/Prism411/geofocos-mobile-proj_individual_01"><b>geofocos-mobile</b></a></td><td>geo fire-spot mobile · sedam context</td><td><sub><code>kotlin</code> · <code>jetpack</code></sub></td><td align="center"><code>2025-10</code></td></tr>
 <tr><td>🎰</td><td><a href="https://github.com/Prism411/tigrinho-apostador"><b>tigrinho-apostador</b></a></td><td>sarcastic anti-gambling sim</td><td><sub><code>kotlin</code> · <code>android</code></sub></td><td align="center"><code>2025-09</code></td></tr>
 <tr><td>📝</td><td><a href="https://github.com/Prism411/texugo-live-editor-local"><b>texugo-live-editor</b></a></td><td>local LaTeX editor w/ live preview</td><td><sub><code>typescript</code> · <code>docker</code></sub></td><td align="center"><code>2026-03</code></td></tr>
 <tr><td>💪</td><td><a href="https://github.com/Prism411/fitHealth-APP"><b>fitHealth-APP</b></a></td><td>habit &amp; exercise tracker</td><td><sub><code>flutter</code> · <code>dart</code></sub></td><td align="center"><code>2025-03</code></td></tr>
@@ -293,11 +289,10 @@ every researcher a community of one trying to compress the canopy<br/>
 into a summary that still smells like ozone after the rain."
 </blockquote>
 
-- 🌳 i write code from the <b>brazilian amazon</b> — sedam/cogeo, porto velho, rondônia.
-- 🔬 my research lives at the intersection of <b>graphs</b>, <b>multimedia summarization</b> and <b>portuguese NLP</b>.
-- 🎯 currently obsessing over: graph community detection for video selection · entity-density boosting · DINOv2 as a quality proxy · ASR for very-low-resource fishing dialects.
-- 🏎 outside the terminal: <b>ferrari tifoso</b>, dwarf fortress in fortress mode, running, F1 sundays are sacred, second-monitor reserved for cats.
-- 📚 always reading something about graph theory, cognitive load, or rainforest hydrology.
+- 🔬 research at the intersection of <b>graphs</b>, <b>NLP</b>, <b>feature extraction</b>, <b>CNNs</b>, <b>transformers</b> and <b>embeddings</b>.
+- 🎯 currently obsessing over: graph community detection for video selection · entity-density boosting · DINOv2 as a quality proxy · ASR for low-resource dialects.
+- 🏎 outside the terminal: <b>ferrari tifosi</b>, dwarf fortress, factorio, racing sims — F1 sundays are sacred.
+- 📚 always reading something about graph theory, cognitive load, or remote sensing.
 
 </td>
 <td valign="top" width="38%" align="center">
@@ -320,14 +315,14 @@ into a summary that still smells like ozone after the rain."
 
 <h2>▍ signal</h2>
 
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jáder-louis-37ab942bb"><img src="https://img.shields.io/badge/linkedin-0a0e27?style=for-the-badge&logo=linkedin&logoColor=d4a574"/></a>
   <a href="mailto:jaderlouis@proton.me"><img src="https://img.shields.io/badge/protonmail-0a0e27?style=for-the-badge&logo=protonmail&logoColor=d4a574"/></a>
   <a href="mailto:jader.louis1@gmail.com"><img src="https://img.shields.io/badge/gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=d4a574"/></a>
   <a href="https://github.com/prism411"><img src="https://img.shields.io/badge/github-0a0e27?style=for-the-badge&logo=github&logoColor=d4a574"/></a>
-</p>
+</div>
 
-<sub>research collabs welcome · gato-friendly inboxes only · please send paper ideas, dataset pointers, or photos of orange cats.</sub>
+<br/><sub align="center">research collabs welcome · paper ideas and dataset pointers appreciated.</sub>
 
 ---
 
@@ -337,7 +332,7 @@ into a summary that still smells like ozone after the rain."
 
 <br/><br/>
 
-<sub><code>this readme · last refactored 2026-04-28 · porto velho · 08°45′S 63°54′W · cat supervisor: present</code></sub>
+<sub><code>this readme · last refactored 2026-04-28 · butantã · são paulo · SP</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a574,50:1a3a5c,100:0a0e27&height=80&section=footer&animation=fadeIn"/>
 
