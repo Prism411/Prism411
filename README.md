@@ -76,7 +76,7 @@ favorite:    well-named variables, leaflet-on-postgis,
 <h3>🕸 <code>jl-summ-graph</code> &nbsp;<sub>· private</sub></h3>
 
 <b>Graph-based multi-video news summarization (PT-BR).</b><br/>
-Stratified kNN + temporal edges + Leiden-CPM communities → top-1-per-community selection with entity-density boosting. Beats <code>HSMVideoSumm</code> baseline by <kbd>+0.21 F1</kbd> at <kbd>~450× faster</kbd> runtime on a 17-topic news corpus.
+Stratified kNN + temporal edges + Leiden-CPM communities → top-1-per-community selection with entity-density boosting.
 
 <sub><code>python</code> · <code>networkx</code> · <code>e5-large</code> · <code>leiden</code> · <code>submodlib</code></sub><br/>
 <sub>🎯 target · <b>WebMedia 2026</b> &nbsp;·&nbsp; status · experimental phase, no draft yet</sub>
@@ -123,8 +123,7 @@ Twin submissions: <b>SBGames 2026</b> (game-design lens, PT-BR) + <b>SBES-Edu 20
 
 <h3>🗄 <code>CGKB</code> &nbsp;<sub>· short paper</sub></h3>
 
-<b>Code Graph Knowledge Base — converts Python code to control flow and data dependency graphs for LLM-assisted code analysis.</b><br/>
-Component of Conapse-Net. Short paper submitted to <b>SBBD 2026</b>.
+<b>Code Graph Knowledge Base.</b> Converts Python code to control flow and data dependency graphs for LLM-assisted code analysis. Component of Conapse-Net.
 
 <sub><code>python</code> · <code>knowledge graphs</code> · <code>postgresql</code></sub><br/>
 <sub>⏳ deadline · <b>SBBD 2026</b> (30/abr)</sub>
@@ -135,7 +134,7 @@ Component of Conapse-Net. Short paper submitted to <b>SBBD 2026</b>.
 <h3>🧠 <code>Conapse-Net</code> &nbsp;<sub>· TCC · private</sub></h3>
 
 <b>Neurosymbolic system for LLM optimization via code graphs.</b><br/>
-Composed of <b>CGKB</b> (Code Graph Knowledge Base) and <b>RAC</b> (Rational Analysis Component — 26 specialized graph processors). Evaluated on DyPyBench (50 projects, 681k LOC): <kbd>84.7% token reduction</kbd>, <kbd>88.76% detection rate</kbd>, RAC 12B matches Llama 70B with 5.8× fewer params and 98% lower cost.
+Composed of <b>CGKB</b> (Code Graph Knowledge Base) and <b>RAC</b> (Rational Analysis Component, 26 specialized graph processors). Evaluated on DyPyBench (50 projects, 681k LOC): <kbd>84.7% token reduction</kbd>, <kbd>88.76% detection rate</kbd>, RAC 12B matches Llama 70B with 5.8× fewer params and 98% lower cost.
 
 <sub><code>python</code> · <code>graphs</code> · <code>neurosymbolic AI</code> · <code>LLMs</code></sub><br/>
 <sub>📄 submitted · <b>SBC</b> (TCC)</sub>
@@ -178,7 +177,17 @@ Maintenance + new features across <code>protege</code>, <code>protege-api</code>
 <sub>📄 status · in production · v0.7.4 prod / v0.7.5 dev</sub>
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<h3>🐘 <code>pg_hsmv</code> &nbsp;<sub>· private</sub></h3>
+
+<b>PostgreSQL C extension for multimedia similarity search.</b><br/>
+Native C type <code>hsmv</code> with operators <code>&lt;-&gt;</code> <code>&lt;=&gt;</code> <code>&lt;##&gt;</code>. Visual (optical flow + LBP + DCT + HSV, 152 floats) + audio (mel-spectrogram + Chroma + Tonnetz, 50 floats) + semantic (Whisper + scene tags) descriptors.
+
+<sub><code>c</code> · <code>postgresql</code> · <code>docker</code> · <code>multimedia-ir</code></sub><br/>
+<sub>📄 status · course project · ICMC-USP SCC5909</sub>
+
+</td>
 </tr>
 </table>
 
@@ -204,7 +213,6 @@ Maintenance + new features across <code>protege</code>, <code>protege-api</code>
 <tr><td>👁</td><td><a href="https://github.com/Prism411/JL-EyeTeractive"><b>JL-EyeTeractive</b></a></td><td>cross-platform eye-tracking (mobile + web) via webcam with competitive accuracy</td><td><sub><code>python</code> · <code>opencv</code> · <code>kotlin</code></sub></td><td align="center"><code>2025-01</code></td></tr>
 <tr><td>🎮</td><td><a href="https://github.com/Prism411/VIII-Semana-da-Computacao-GAMEDEV-COURSE"><b>VIII Semana · GameDev Course</b></a></td><td>gamedev intro course · I taught it</td><td><sub><code>python</code> · <code>pygame</code></sub></td><td align="center"><code>2025-10</code></td></tr>
 <tr><td>🤖</td><td><b>jadent</b> &nbsp;<sub>· private</sub></td><td>personal remote AI terminal hub via Discord, Telegram and web</td><td><sub><code>typescript</code> · <code>docker</code> · <code>discord.js</code></sub></td><td align="center"><code>2026-04</code></td></tr>
-<tr><td>🐘</td><td><a href="https://github.com/Prism411/pg_hsmv"><b>pg_hsmv</b></a> &nbsp;<sub>· private</sub></td><td>PostgreSQL C extension for multimedia similarity · visual + audio + semantic descriptors</td><td><sub><code>c</code> · <code>postgresql</code> · <code>docker</code></sub></td><td align="center"><code>2026-04</code></td></tr>
 <tr><td>🎰</td><td><a href="https://github.com/Prism411/tigrinho-apostador"><b>tigrinho-apostador</b></a></td><td>sarcastic anti-gambling sim</td><td><sub><code>kotlin</code> · <code>android</code></sub></td><td align="center"><code>2025-09</code></td></tr>
 <tr><td>📝</td><td><a href="https://github.com/Prism411/texugo-live-editor-local"><b>texugo-live-editor</b></a></td><td>local LaTeX editor w/ live preview</td><td><sub><code>typescript</code> · <code>docker</code></sub></td><td align="center"><code>2026-03</code></td></tr>
 <tr><td>💪</td><td><a href="https://github.com/Prism411/fitHealth-APP"><b>fitHealth-APP</b></a></td><td>habit &amp; exercise tracker</td><td><sub><code>flutter</code> · <code>dart</code></sub></td><td align="center"><code>2025-03</code></td></tr>
