@@ -197,7 +197,7 @@ Maintenance + new features across <code>protege</code>, <code>protege-api</code>
 
 <img src="https://media.giphy.com/media/q1mHcB8wOCWf6/giphy.gif" width="180" alt="cat archivist"/>
 <br/>
-<sub><code>fig 2.</code> <em>cat reviewing my old commits.</em></sub>
+<sub><code>fig 2.</code> <em>homer reviewing my old commits.</em></sub>
 
 </td>
 </tr>
