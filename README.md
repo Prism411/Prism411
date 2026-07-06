@@ -38,7 +38,7 @@
 
 ```yaml
 name:        jáder louis de souza gonçalves
-role:        geospatial developer @ SEDAM / COGEO (remote)
+role:        geospatial developer @ SEDAM / COGEO 
 study:       MSc AI @ ICMC-USP · multimodal artificial intelligence
 research:    graphs + NLP + feature extraction
              + CNNs + transformers + embeddings
