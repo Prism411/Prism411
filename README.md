@@ -71,7 +71,7 @@ favorite:    well-named variables, leaflet-on-postgis,
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3>🕸 <code>jl-summ-graph</code> &nbsp;<sub>· private</sub></h3>
 
@@ -80,17 +80,6 @@ Stratified kNN + temporal edges + Leiden-CPM communities → top-1-per-community
 
 <sub><code>python</code> · <code>networkx</code> · <code>e5-large</code> · <code>leiden</code> · <code>submodlib</code></sub><br/>
 <sub>🎯 target · <b>WebMedia 2026</b> &nbsp;·&nbsp; status · experimental phase, no draft yet</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎬 <a href="https://github.com/Prism411/sumarizador"><code>sumarizador</code> · SummWeb</a> &nbsp;<sub>· private</sub></h3>
-
-<b>Programmable web platform for video summarization.</b><br/>
-Next.js 15 + FastAPI + Docker. Visual flow builder, monitored folders, REST API for automation, decision logs. Catppuccin Mocha design system. Wraps the HSMVideoSumm engine.
-
-<sub><code>next.js</code> · <code>fastapi</code> · <code>docker</code> · <code>react-flow</code></sub><br/>
-<sub>🎯 target · <b>WebMedia 2026 · tool track</b> &nbsp;·&nbsp; status · in development</sub>
 
 </td>
 </tr>
