@@ -71,7 +71,7 @@ favorite:    well-named variables, leaflet-on-postgis,
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🕸 <code>jl-summ-graph</code> &nbsp;<sub>· private</sub></h3>
 
