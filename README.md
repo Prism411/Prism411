@@ -82,6 +82,17 @@ Stratified kNN + temporal edges + Leiden-CPM communities → top-1-per-community
 <sub>🎯 target · <b>WebMedia 2026</b> &nbsp;·&nbsp; status · experimental phase, no draft yet</sub>
 
 </td>
+<td width="50%" valign="top">
+
+<h3>𓂀 <code>osirihs</code> &nbsp;<sub>· local-first · private</sub></h3>
+
+<b>Desktop knowledge workspace with persistent AI agent rooms.</b><br/>
+Multi-vault Markdown, LaTeX and PDF environment with graph navigation, academic review and isolated Claude/Codex sessions backed by persistent terminals.
+
+<sub><code>tauri</code> · <code>rust</code> · <code>react</code> · <code>typescript</code> · <code>dockview</code></sub><br/>
+<sub>📄 status · active development · desktop release</sub>
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -157,13 +168,13 @@ Evaluated in Minecraft. Persistent memory + modular cognition + multi-agent coor
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛰 <code>PROTEGE</code> &nbsp;<sub>· SEDAM/COGEO · government</sub></h3>
+<h3>🛰 <a href="https://protege.sedam.ro.gov.br/"><code>PROTEGE</code></a> &nbsp;<sub>· SEDAM/COGEO · government</sub></h3>
 
 <b>Geospatial monitoring stack for the state of Rondônia.</b><br/>
 Maintenance + new features across <code>protege</code>, <code>protege-api</code>, <code>protege-datahub</code>, <code>protege-notificacoes</code>. Fire-spot dashboards, 3D route visualization, anomaly detection.
 
 <sub><code>react</code> · <code>postgis</code> · <code>openlayers</code> · <code>airflow</code></sub><br/>
-<sub>📄 status · in production · v0.7.4 prod / v0.7.5 dev</sub>
+<sub>📄 status · in production · v0.8.0</sub>
 
 </td>
 <td width="50%" valign="top">
